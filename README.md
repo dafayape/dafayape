@@ -3,13 +3,14 @@
 # 👨‍💻 Daffa Jaya Perkasa
 ### **Full-Stack | Mobile | AI | DevOps Engineer**
 
-📍 Bandung, Indonesia • 📧 [dafayape@gmail.com](mailto:dafayape@gmail.com) • 🌐 [github.com/dafayape](https://github.com/dafayape)
+📍 Bandung, Indonesia (UTC+7 / WIB) • 👤 he/him • 💼 [LinkedIn](https://linkedin.com/in/dafayape) • 📧 [dafayape@gmail.com](mailto:dafayape@gmail.com)
 
 ```
 Building resilient, high-performance distributed systems, edge-native applications,
 and machine learning pipelines with rigorous Clean Architecture and international ISO standards compliance.
 ```
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dafayape-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/dafayape)
 [![ISO 25010](https://img.shields.io/badge/ISO%2FIEC-25010%20Software%20Quality-success?logo=checkmarx&logoColor=white)](#standards--engineering-principles)
 [![ISO 27001](https://img.shields.io/badge/ISO%2FIEC-27001%20Information%20Security-blue?logo=auth0&logoColor=white)](#standards--engineering-principles)
 [![ISO 12207](https://img.shields.io/badge/ISO%2FIEC-12207%20Software%20Lifecycle-orange?logo=git&logoColor=white)](#standards--engineering-principles)
@@ -118,8 +119,10 @@ All source code contributions across public and private repositories are cryptog
 ## 📬 Contact & Connect
 
 - **Email**: [dafayape@gmail.com](mailto:dafayape@gmail.com)
+- **LinkedIn**: [linkedin.com/in/dafayape](https://linkedin.com/in/dafayape)
 - **GitHub**: [@dafayape](https://github.com/dafayape)
-- **Location**: Bandung, West Java, Indonesia
+- **Location**: Bandung, West Java, Indonesia (UTC+7 / WIB)
+- **Pronouns**: he / him
 - **Availability**: Open for high-impact Full-Stack, Mobile, AI, and DevOps engineering opportunities.
 
 <div align="center">
