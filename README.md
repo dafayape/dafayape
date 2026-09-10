@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="terminal.gif" alt="Daffa Jaya Perkasa Banner" width="100%" />
+<img src="architecture.gif" alt="Daffa Jaya Perkasa Banner" width="100%" />
 <br/><br/>
 
 # 👨‍💻 Daffa Jaya Perkasa
