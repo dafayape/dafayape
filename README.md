@@ -1,10 +1,11 @@
 <div align="center">
 
 <img src="workspace-header.gif" alt="Daffa Jaya Perkasa Architecture Workspace Header" width="100%" />
-<br/><br/>
+
+<br/>
 
 # 👨‍💻 Daffa Jaya Perkasa
-### **Full-Stack | Mobile | AI | DevOps Engineer**
+### **Full-Stack · Mobile · AI · DevOps Engineer**
 
 📍 Bandung, Indonesia (UTC+7 / WIB) • 👤 he/him • 💼 [LinkedIn](https://linkedin.com/in/dafayape) • 📧 [dafayape@gmail.com](mailto:dafayape@gmail.com)
 
@@ -13,13 +14,12 @@ Building resilient, high-performance distributed systems, edge-native applicatio
 and machine learning pipelines with rigorous Clean Architecture and international ISO standards compliance.
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dafayape-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/dafayape)
-[![ISO 25010](https://img.shields.io/badge/ISO%2FIEC-25010%20Software%20Quality-success?logo=checkmarx&logoColor=white)](#standards--engineering-principles)
-[![ISO 27001](https://img.shields.io/badge/ISO%2FIEC-27001%20Information%20Security-blue?logo=auth0&logoColor=white)](#standards--engineering-principles)
-[![ISO 12207](https://img.shields.io/badge/ISO%2FIEC-12207%20Software%20Lifecycle-orange?logo=git&logoColor=white)](#standards--engineering-principles)
-[![ISO 42001](https://img.shields.io/badge/ISO%2FIEC-42001%20AI%20Management-purple?logo=openai&logoColor=white)](#standards--engineering-principles)
-[![GPG Verified](https://img.shields.io/badge/GPG-Ed25519%20Signed-brightgreen?logo=gnupg&logoColor=white)](#cryptographic-verification)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dafayape-0B132B?style=for-the-badge&logo=linkedin&logoColor=00ADD8)](https://linkedin.com/in/dafayape)
+[![ISO 25010](https://img.shields.io/badge/ISO%2FIEC_25010-Software_Quality-0B132B?style=for-the-badge&logo=checkmarx&logoColor=10B981)](#standards-principles)
+[![ISO 27001](https://img.shields.io/badge/ISO%2FIEC_27001-Information_Security-0B132B?style=for-the-badge&logo=auth0&logoColor=38BDF8)](#standards-principles)
+[![ISO 12207](https://img.shields.io/badge/ISO%2FIEC_12207-Lifecycle_Systems-0B132B?style=for-the-badge&logo=git&logoColor=F59E0B)](#standards-principles)
+[![ISO 42001](https://img.shields.io/badge/ISO%2FIEC_42001-AI_Management-0B132B?style=for-the-badge&logo=openai&logoColor=A855F7)](#standards-principles)
+[![GPG Verified](https://img.shields.io/badge/GPG_Ed25519-Verified_Key-0B132B?style=for-the-badge&logo=gnupg&logoColor=10B981)](#cryptographic-verification)
 
 </div>
 
@@ -39,14 +39,13 @@ My engineering methodology prioritizes:
 
 ## 🛠️ Technical Competencies
 
-
 | Domain | Mastered Stack & Official Badges | Architecture & Engineering Standards |
-|---|---|---|
-| **Backend & Distributed Systems** | ![Go](https://img.shields.io/badge/Go-161b22?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-161b22?style=flat-square&logo=redis&logoColor=white) | Gin, Gorilla WebSockets, GORM, Concurrency with Race Detectors, Redis Geospatial, RESTful API Design |
-| **Frontend & Web Engineering** | ![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwind-css&logoColor=white) | Next.js 16 (App Router), React 19, Turbopack, Leaflet Maps, Responsive Component Systems, Web Vitals |
-| **Mobile & Edge Computing** | ![Flutter](https://img.shields.io/badge/Flutter-161b22?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-161b22?style=flat-square&logo=dart&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=white) | Flutter 3.x, Riverpod 2.6, BLoC Pattern, Offline Store-and-Forward DTN, LoRa Physical Ether, GPS Geofencing |
-| **Artificial Intelligence & Vision** | ![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging_Face-161b22?style=flat-square&logo=huggingface&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=white) | Google SigLIP ViT, Zero-Shot Classification, Asynchronous Inference Workers, ISO/IEC 42001 & 25059 |
-| **DevOps, Security & Cloud** | ![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161b22?style=flat-square&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=white) ![Bash](https://img.shields.io/badge/GNU_Bash-161b22?style=flat-square&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white) | Multi-Stage Builds, CI/CD Automated Quality Gates, POSIX Hardened Shell, Ed25519 GPG Non-Repudiation |
+|:---|:---|:---|
+| **⚡ Backend & Distributed Systems** | ![Go](https://img.shields.io/badge/Go-161b22?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-161b22?style=flat-square&logo=redis&logoColor=white) | Gin, Gorilla WebSockets, GORM, Concurrency with Race Detectors, Redis Geospatial, RESTful API Design |
+| **🖥️ Frontend & Web Engineering** | ![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwind-css&logoColor=white) | Next.js 16 (App Router), React 19, Turbopack, Leaflet Maps, Responsive Component Systems, Web Vitals |
+| **📱 Mobile & Edge Computing** | ![Flutter](https://img.shields.io/badge/Flutter-161b22?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-161b22?style=flat-square&logo=dart&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=white) | Flutter 3.x, Riverpod 2.6, BLoC Pattern, Offline Store-and-Forward DTN, LoRa Physical Ether, GPS Geofencing |
+| **🧠 Artificial Intelligence & Vision** | ![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging_Face-161b22?style=flat-square&logo=huggingface&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=white) | Google SigLIP ViT, Zero-Shot Classification, Asynchronous Inference Workers, ISO/IEC 42001 & 25059 |
+| **📦 DevOps, Security & Cloud** | ![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161b22?style=flat-square&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=white) ![Bash](https://img.shields.io/badge/GNU_Bash-161b22?style=flat-square&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white) | Multi-Stage Builds, CI/CD Automated Quality Gates, POSIX Hardened Shell, Ed25519 GPG Non-Repudiation |
 
 ---
 
@@ -84,6 +83,7 @@ My engineering methodology prioritizes:
 
 ---
 
+<a id="standards-principles"></a>
 ## 🛡️ Standards & Engineering Principles
 
 ```mermaid
@@ -110,6 +110,7 @@ graph LR
 
 ---
 
+<a id="cryptographic-verification"></a>
 ## 🔐 Cryptographic Verification
 
 All source code contributions across public and private repositories are cryptographically signed to guarantee authenticity and non-repudiation:
@@ -131,8 +132,9 @@ All source code contributions across public and private repositories are cryptog
 
 <div align="center">
 
-<img src="footer.gif" alt="Daffa Jaya Perkasa Statusline Footer" width="100%" />
-<br/><br/>
+<img src="workspace-footer.gif" alt="Daffa Jaya Perkasa Statusline Footer" width="100%" />
+
+<br/>
 
 <sub>Designed and engineered by **Daffa Jaya Perkasa** • Licensed under [MIT](LICENSE)</sub>
 
