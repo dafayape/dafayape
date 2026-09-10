@@ -39,13 +39,20 @@ My engineering methodology prioritizes:
 
 ## 🛠️ Technical Competencies
 
-| Domain | Technologies & Frameworks |
-|---|---|
-| **Backend & Distributed Systems** | Go (Gin, Gorilla WebSocket, GORM), Python (FastAPI), REST APIs, WebSockets, PostgreSQL 16, Redis 7 |
-| **Frontend & Web Engineering** | Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS, Turbopack, Leaflet Maps, State Management |
-| **Mobile & Edge Computing** | Flutter 3.x, Dart, Riverpod 2.6, BLoC Pattern, SQLite (Store-and-Forward), MessagePack Binary Codec, Geofencing |
-| **Artificial Intelligence & Vision** | PyTorch, Google SigLIP ViT, Zero-Shot Classification, Hugging Face Transformers, OpenCV |
-| **DevOps & Security Hardening** | Docker & Multi-Stage Builds, Docker Compose, GitHub Actions CI/CD, Ed25519 GPG, Linux/Unix Shell Scripting |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,py,dart,flutter,ts,js,nextjs,react,tailwind,postgres,redis,pytorch,docker,bash,linux,git,github&theme=dark" alt="Technical Stack Icons" />
+<br/><br/>
+
+</div>
+
+| Domain | Mastered Stack & Official Badges | Architecture & Engineering Standards |
+|---|---|---|
+| **Backend & Distributed Systems** | ![Go](https://img.shields.io/badge/Go-161b22?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-161b22?style=flat-square&logo=redis&logoColor=white) | Gin, Gorilla WebSockets, GORM, Concurrency with Race Detectors, Redis Geospatial, RESTful API Design |
+| **Frontend & Web Engineering** | ![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwind-css&logoColor=white) | Next.js 16 (App Router), React 19, Turbopack, Leaflet Maps, Responsive Component Systems, Web Vitals |
+| **Mobile & Edge Computing** | ![Flutter](https://img.shields.io/badge/Flutter-161b22?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-161b22?style=flat-square&logo=dart&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=white) | Flutter 3.x, Riverpod 2.6, BLoC Pattern, Offline Store-and-Forward DTN, LoRa Physical Ether, GPS Geofencing |
+| **Artificial Intelligence & Vision** | ![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging_Face-161b22?style=flat-square&logo=huggingface&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=white) | Google SigLIP ViT, Zero-Shot Classification, Asynchronous Inference Workers, ISO/IEC 42001 & 25059 |
+| **DevOps, Security & Cloud** | ![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161b22?style=flat-square&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=white) ![Bash](https://img.shields.io/badge/GNU_Bash-161b22?style=flat-square&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=white) | Multi-Stage Builds, CI/CD Automated Quality Gates, POSIX Hardened Shell, Ed25519 GPG Non-Repudiation |
 
 ---
 
