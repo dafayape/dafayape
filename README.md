@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.gif" alt="Daffa Jaya Perkasa Architecture Workspace Header" width="100%" />
+<img src="workspace-header.gif" alt="Daffa Jaya Perkasa Architecture Workspace Header" width="100%" />
 <br/><br/>
 
 # 👨‍💻 Daffa Jaya Perkasa
