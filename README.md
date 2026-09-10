@@ -39,12 +39,6 @@ My engineering methodology prioritizes:
 
 ## 🛠️ Technical Competencies
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=go,py,dart,flutter,ts,js,nextjs,react,tailwind,postgres,redis,pytorch,docker,bash,linux,git,github&theme=dark" alt="Technical Stack Icons" />
-<br/><br/>
-
-</div>
 
 | Domain | Mastered Stack & Official Badges | Architecture & Engineering Standards |
 |---|---|---|
