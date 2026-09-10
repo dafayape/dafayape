@@ -130,6 +130,9 @@ All source code contributions across public and private repositories are cryptog
 
 <div align="center">
 
+<img src="footer.gif" alt="Daffa Jaya Perkasa Statusline Footer" width="100%" />
+<br/><br/>
+
 <sub>Designed and engineered by **Daffa Jaya Perkasa** • Licensed under [MIT](LICENSE)</sub>
 
 </div>
