@@ -14,12 +14,13 @@ Building resilient, high-performance distributed systems, edge-native applicatio
 and machine learning pipelines with rigorous Clean Architecture and international ISO standards compliance.
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dafayape-0B132B?style=for-the-badge&logo=linkedin&logoColor=00ADD8)](https://linkedin.com/in/dafayape)
-[![ISO 25010](https://img.shields.io/badge/ISO%2FIEC_25010-Software_Quality-0B132B?style=for-the-badge&logo=checkmarx&logoColor=10B981)](#standards-principles)
-[![ISO 27001](https://img.shields.io/badge/ISO%2FIEC_27001-Information_Security-0B132B?style=for-the-badge&logo=auth0&logoColor=38BDF8)](#standards-principles)
-[![ISO 12207](https://img.shields.io/badge/ISO%2FIEC_12207-Lifecycle_Systems-0B132B?style=for-the-badge&logo=git&logoColor=F59E0B)](#standards-principles)
-[![ISO 42001](https://img.shields.io/badge/ISO%2FIEC_42001-AI_Management-0B132B?style=for-the-badge&logo=openai&logoColor=A855F7)](#standards-principles)
-[![GPG Verified](https://img.shields.io/badge/GPG_Ed25519-Verified_Key-0B132B?style=for-the-badge&logo=gnupg&logoColor=10B981)](#cryptographic-verification)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dafayape-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/dafayape)
+[![ISO 25010](https://img.shields.io/badge/ISO%2FIEC-25010%20Software%20Quality-success?logo=checkmarx&logoColor=white)](#standards-principles)
+[![ISO 27001](https://img.shields.io/badge/ISO%2FIEC-27001%20Information%20Security-blue?logo=auth0&logoColor=white)](#standards-principles)
+[![ISO 12207](https://img.shields.io/badge/ISO%2FIEC-12207%20Software%20Lifecycle-orange?logo=git&logoColor=white)](#standards-principles)
+[![ISO 42001](https://img.shields.io/badge/ISO%2FIEC-42001%20AI%20Management-purple?logo=openai&logoColor=white)](#standards-principles)
+[![GPG Verified](https://img.shields.io/badge/GPG-Ed25519%20Signed-brightgreen?logo=gnupg&logoColor=white)](#cryptographic-verification)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 </div>
 
@@ -51,7 +52,7 @@ My engineering methodology prioritizes:
 
 ## 🚀 Featured Architectural Projects
 
-### 1. 🛡️ SESPIMMA ` ` [![Institutional Confidential](https://img.shields.io/badge/Access-Institutional_Confidential-0B132B?style=flat-square&logo=auth0&logoColor=38BDF8)](#-standards--engineering-principles)
+### 1. 🛡️ SESPIMMA ` ` [![Institutional Confidential](https://img.shields.io/badge/Access-Institutional_Confidential-0B132B?style=flat-square&logo=auth0&logoColor=38BDF8)](#standards-principles)
 > **Digital evaluation, anti-spoofing GPS geofence attendance, and cadet tracking platform for police academy institutions.**
 - **Stack**: Go (Gin, GORM, Redis), Next.js 16 (React 19), Flutter (Clean Architecture, BLoC Pattern).
 - **Key Engineering**: 8-tier RBAC security model, append-only audit trail ledger, multi-aspect evaluation (academic, physical fitness, mental sociometry), anti-mock GPS geofencing via Redis geospatial caching.
@@ -63,19 +64,19 @@ My engineering methodology prioritizes:
 - **Key Engineering**: Physical radio ether simulation, BFS shortest-path dynamic multi-hop routing, Disruption-Tolerant Networking (DTN) via offline transactional SQLite queue, pure binary MessagePack serialization.
 - **Compliance**: ISO/IEC 25010, ISO/IEC 27001, ISO/IEC 12207.
 
-### 3. 🤖 Berseka Vision AI ` ` [![Enterprise Model](https://img.shields.io/badge/Access-Enterprise_Confidential-0B132B?style=flat-square&logo=auth0&logoColor=A855F7)](#-standards--engineering-principles)
+### 3. 🤖 Berseka Vision AI ` ` [![Enterprise Model](https://img.shields.io/badge/Access-Enterprise_Confidential-0B132B?style=flat-square&logo=auth0&logoColor=A855F7)](#standards-principles)
 > **Production-grade Vision AI for automated waste classification using Google SigLIP zero-shot model.**
 - **Stack**: Python 3.11, FastAPI, PyTorch, Google SigLIP ViT, Docker Multi-Stage.
 - **Key Engineering**: Sub-second zero-shot visual inference, asynchronous worker pools, structured confidence scoring matrix, automated quality regression suite.
 - **Compliance**: ISO/IEC 42001:2023 (AI Management System) & ISO/IEC 25059:2023 (Quality of AI Systems).
 
-### 4. 🌴 SawitChain ` ` [![Private Enterprise](https://img.shields.io/badge/Access-Private_Enterprise_Ledger-0B132B?style=flat-square&logo=auth0&logoColor=10B981)](#-standards--engineering-principles)
+### 4. 🌴 SawitChain ` ` [![Private Enterprise](https://img.shields.io/badge/Access-Private_Enterprise_Ledger-0B132B?style=flat-square&logo=auth0&logoColor=10B981)](#standards-principles)
 > **Web platform for palm oil supply chain traceability and sustainability monitoring.**
 - **Stack**: Next.js 16, React 19, TypeScript, Tailwind CSS, Lucide Icons.
 - **Key Engineering**: Enterprise supply chain ledger dashboard, component-driven Clean Architecture, 100% static page pre-rendering via Turbopack.
 - **Compliance**: ISO/IEC 25010 & ISO/IEC 27001.
 
-### 5. ⚙️ Dotfiles Hardened Environment ` ` [![Private Configuration](https://img.shields.io/badge/Access-Internal_Hardened-0B132B?style=flat-square&logo=gnu-bash&logoColor=F59E0B)](#-standards--engineering-principles)
+### 5. ⚙️ Dotfiles Hardened Environment ` ` [![Private Configuration](https://img.shields.io/badge/Access-Internal_Hardened-0B132B?style=flat-square&logo=gnu-bash&logoColor=F59E0B)](#standards-principles)
 > **Modular Unix environment configurations, developer tooling, and ISO 27001 cryptographic security hardening.**
 - **Stack**: Bash 5.x, POSIX Shell, Ed25519 GPG, Git Configuration.
 - **Key Engineering**: Modular `.bashrc.d` architecture (15 components), idempotent automated installer, global security ignore policies, SSH keepalive hardening.
