@@ -1,0 +1,19 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Editor & IDE Directories
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# AI Tooling & Internal Context Artifacts (ISO/IEC 12207 Exclusions)
+.agent/
+.agents/
+.cursor/
+.claude/
+.skills/
+AGENTS.md
+CLAUDE.md
+*.copilot*
